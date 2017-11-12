@@ -11,7 +11,7 @@ struct Member
 	string role;
 	int number;
 	int ifcaptain;
-	//int goal;
+	int goal;
 };
 
 class Team{

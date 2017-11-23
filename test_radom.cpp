@@ -1,13 +1,17 @@
-#include "team.h"
 #include<iostream>
-#include<algorithm>
-#include<cstdlib>
-#include<ctime>
+#include<vector>
 using namespace std;
-int main(){
-	for(int i = 0;i < 100;i++){
-		int sum = rand() % 7;
-		cout << sum << "  ";
+struct test{
+	vector<int> val;
+	test(){
+		val.push_back(1);
+		val.push_back(2);
 	}
-	cout << endl;
+	vector<int> &get(){
+		return val;
+	}
+};
+int main(){
+	test t;
+	cout << (t.get())[1] << endl;
 }

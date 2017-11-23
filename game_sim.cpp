@@ -1,9 +1,4 @@
-#include "team.h"
-#include<iostream>
-#include<algorithm>
-#include<cstdlib>
-#include<ctime>
-using namespace std;
+#include "game_sim.h"
 int seed = time(0);
 int Rank(Member &m){
 	if(m.role == "GK"){

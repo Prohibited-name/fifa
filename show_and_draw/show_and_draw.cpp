@@ -19,7 +19,7 @@ struct Member
 	int ifcaptain;
 	int goal;
 	void show(){
-		cout << "#" << number << ", " << name << ", " << role << endl;
+		cout << "#" << number << ", " << name << ", " << role;
 	}
 };
 

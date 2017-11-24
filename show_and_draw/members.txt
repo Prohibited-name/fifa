@@ -1,0 +1,1422 @@
+一、Brazil
+1 0
+Jefferson
+GK
+2 0
+Daniel Alves
+DF
+3 0
+Thiago Silva
+DF
+4 0
+David Luiz
+DF
+5 0
+Fernandinho
+MF
+6 0
+Marcello
+DF
+7 0
+hulk
+FW
+8 0
+Paulinho
+MF
+9 0
+Fred
+FW
+10 1
+Neymar
+FW
+11 0
+Oscar
+MF
+12 0
+Giulio Cesar
+GK
+13 0
+Dante
+DF
+14 0
+Maxwell
+DF
+15 0
+Enrique
+DF
+16 0
+Ramirez
+MF
+17 0
+Luiz Gustavo
+MF
+18 0
+Hernanes
+MF
+19 0
+William
+MF
+20 0
+bernard
+FW
+21 0
+if
+FW
+22 0
+Victor
+GK
+23 0
+maicon
+DF
+	
+二、Croatia
+1 0
+Stipe Pletikosa
+GK
+2 0
+Cem Fusarico
+DF
+3 0
+Danijel Pranji
+DF
+4 0
+Ivan Perisic
+MF
+5 0
+Vedran orluka
+DF
+6 0
+Dejan Lovren
+DF
+7 0
+Ivan Rakiti
+MF
+8 0
+Ognjen Vukovich
+MF
+9 0
+Nikica Jelavich
+FW
+10 1
+Luka Modric
+MF
+11 0
+Darijo Srna
+DF
+12 0
+Oliver Zelenica
+GK
+13 0
+Gordon Schildenfeld
+DF
+14 0
+Marcello Blozovic
+MF
+15 0
+Ivan Mozzinik
+MF
+16 0
+Ante Rebizzi
+FW
+17 0
+Mario Manjukizi
+FW
+18 0
+Ivica Olic
+FW
+19 0
+Samir
+MF
+20 0
+Matteo Kovacic
+FW
+21 0
+Domagoj Vida
+DF
+22 0
+Eduardo
+FW
+23 0
+Danijel Subasic
+GK
+
+三、Mexico
+1 0
+Jose Corona
+GK
+2 0
+RODRIGUEZ Francisco
+DF
+3 0
+Carlos Salcido
+DF
+4 0
+Rafael Marcos
+DF
+5 0
+Diego Reyes
+DF
+6 0
+Hector Herrera
+MF
+7 0
+Miguel Lating
+DF
+8 0
+Marco fabian
+MF
+9 0
+Raul Jimenez
+FW
+10 0
+Giovanni dos Santos
+FW
+11 0
+Alan Pulido
+FW
+12 0
+Alfredo Talavera
+GK
+13 0
+Guillermo Ochoa
+GK
+14 0
+Javier Hernandez
+FW
+15 0
+Hector Moreno
+DF
+16 0
+Miquel Ponce
+DF
+17 0
+Isaac Brizuela
+MF
+18 1
+Andreas Guardado
+DF
+19 0
+Aolibi Peralta
+FW
+20 0
+Javier Aquino
+MF
+21 0
+Carlos Pena
+MF
+22 0
+Paul Aguilar
+DF
+23 0
+Juan Vasquez
+MF
+
+四、Australia
+1 0
+Matthew Ryan
+GK
+2 0
+Ivan Frandichi
+DF
+3 0
+Jason Davidson
+DF
+4 0
+Tim Cahill
+FW
+5 0
+Mark Milligan
+MF
+6 0
+Matthew Spiranovic
+DF
+7 0
+Mathew Leckie
+FW
+8 0
+Bailey White
+DF
+9 0
+Adam Taggart
+FW
+10 0
+Ben Halloran
+MF
+11 0
+Tommy Orr
+MF
+12 0
+Michel Dian langerack
+GK
+13 0
+Oliver Bozzanich
+MF
+14 0
+James Troisi
+MF
+15 0
+Mir Jdinaka
+MF
+16 0
+James Holland
+MF
+17 0
+Matthew Makei
+MF
+18 1
+Eugene Galekovic
+GK
+19 0
+Ryan McGovern
+DF
+20 0
+Dario Vidosic
+MF
+21 0
+Massimo Rongo
+MF
+22 0
+Alex Wilkinson
+DF
+23 0
+Mark Bresciano
+MF
+
+五、Spain
+1 0
+Iker Casillas
+GK
+2 0
+Raul Albiol
+DF
+3 0
+Gerard Piqu
+DF
+4 0
+Javi Martinez
+MF
+5 0
+Juanfran
+DF
+6 0
+Andres Iniesta
+MF
+7 0
+David Villa
+FW
+8 0
+Harvey
+MF
+9 0
+Fernando Torres
+FW
+10 0
+Cesc Fabregas
+MF
+11 0
+Pedro
+FW
+12 0
+David Deglia
+GK
+13 0
+Juan Mata
+MF
+14 0
+Xabi Alonso
+MF
+15 1
+Sergio Ramos
+DF
+16 0
+Sergio Busquets
+MF
+17 0
+Kirk
+MF
+18 0
+Jordi Alba
+DF
+19 0
+Diego Costa
+FW
+20 0
+Santi Cazorla
+MF
+21 0
+David Silva
+MF
+22 0
+Cesar Azpilicueta
+DF
+23 0
+Jose Reina
+GK
+
+六、Japan
+1 0
+Eiji Kawashima
+GK
+2 0
+Atsuto Uchida
+DF
+3 0
+Gotoku Sakai
+DF
+4 1
+Keisuke Honda
+MF
+5 0
+Yuto Nagatomo
+DF
+6 0
+Morishige reality
+DF
+7 0
+Yasuhito Endo
+MF
+8 0
+Hiroshi Kiyotake
+MF
+9 0
+shinji okazaki
+FW
+10 0
+Shinji Kagawa
+MF
+11 0
+Kitani Youichiro
+FW
+12 0
+Shusaku Nishikawa
+GK
+13 0
+Yoshito Okubo
+FW
+14 0
+Toshihiro Aoyama
+MF
+15 0
+Yasuyuki Konno
+DF
+16 0
+Hotaru Yamaguchi
+MF
+17 0
+Makoto Hasebe
+MF
+18 0
+Yuya Osako
+FW
+19 0
+Masahiko Inoha
+DF
+20 0
+Saito learn
+FW
+21 0
+Hiroki Sakai
+DF
+22 0
+Maya Yoshida
+DF
+23 0
+Shuichi Gonda
+GK
+
+七、Colombia
+1 0
+David OSPINA
+GK
+2 0
+Cristian Zapata
+DF
+3 0
+Mario Yepes
+DF
+4 0
+Santiago Arias
+DF
+5 0
+Carlos Carbonero
+MF
+6 0
+Carlos Sanchez
+MF
+7 0
+Pablo Armero
+DF
+8 0
+Abel Aguilar
+MF
+9 0
+Teofilo Gutierrez
+FW
+10 1
+James Rodriguez
+MF
+11 0
+Juan Cuadrado
+MF
+12 0
+Camilo Vargas
+GK
+13 0
+Freddie Gualin
+MF
+14 0
+Victor Ivarvo
+FW
+15 0
+Alexander MEJIA
+MF
+16 0
+Ed Alvarez Balanta
+DF
+17 0
+Carlos BACCA
+FW
+18 0
+Juan Camilo Zuniga
+DF
+19 0
+Adrian Ramos
+FW
+20 0
+Juan Fernando Quintero
+MF
+21 0
+Jackson Martinez
+FW
+22 0
+Farid Mondragon
+GK
+23 0
+Carlos Adrian Suarez Valdez
+DF
+
+
+八、Costa Rica 
+1 0
+Calo Navas
+GK
+2 0
+Johnny Acosta
+DF
+3 0
+Giancarlo Gonzalez
+DF
+4 0
+Michel Umana
+DF
+5 0
+Celso Borges
+MF
+6 0
+Oscar Duarte
+DF
+7 0
+Christian Bolanos
+MF
+8 0
+Heiner Mora
+DF
+9 0
+Joel Campbell
+FW
+10 1
+Bryan Ruiz
+FW
+11 0
+Michael Barrantes
+MF
+12 0
+Wallon Francis
+DF
+13 0
+Esteban Granados
+MF
+14 0
+Randall Brenes
+FW
+15 0
+Junior Diaz
+DF
+16 0
+Christian Gamboa
+DF
+17 0
+Yeltsin Tejeda
+MF
+18 0
+Patrick Peng, Burton
+GK
+19 0
+Roy Miller
+DF
+20 0
+Diego Calvo
+MF
+21 0
+Marco Urena
+FW
+22 0
+Miguel Cuvero
+MF
+23 0
+Daniel Cambronero
+GK
+
+九、England
+1 0
+Joe Hart
+GK
+2 0
+Glen Johnson
+DF
+3 0
+Leighton Baines
+DF
+4 0
+Steven Gerard
+MF
+5 0
+gary cahill
+DF
+6 0
+Phil Jagielka
+DF
+7 0
+Jack Wilshere
+MF
+8 0
+Frank Lampard
+MF
+9 0
+Daniel Sturridge
+FW
+10 0
+Wayne Rooney
+FW
+11 0
+Danny Welbeck
+FW
+12 0
+Chris Smalling
+DF
+13 0
+Ben Foster
+GK
+14 0
+Jordan Henderson
+MF
+15 0
+Alex Oxlade-Chamberlain
+MF
+16 0
+Phil Jones
+DF
+17 0
+James Milner
+MF
+18 1
+Rickie Lambert
+FW
+19 0
+Raheem Sterling
+MF
+20 0
+Adam Lallana
+MF
+21 0
+Ross Barclay
+MF
+22 0
+Fraser Forster
+GK
+23 0
+Luke Seaan
+DF
+
+九、Uruguay
+1 0
+Fernando Muslera
+GK
+2 0
+Diego Lugano
+DF
+3 0
+Diego Godin
+DF
+4 0
+Sebastian Coates
+DF
+5 0
+Walter GARGANO
+MF
+6 0
+Alvaro PEREIRA
+MF
+7 0
+Christian Rodriguez
+MF
+8 0
+Abel Hernandez
+FW
+9 1
+Luis Suarez
+FW
+10 0
+Diego Forlan
+FW
+11 0
+Christian Ricardo Stuani
+FW
+12 0
+Rodrigo Munoz
+GK
+13 0
+Jorge Fucile
+DF
+14 0
+Nicholas Lodeiro
+MF
+15 0
+Diego PEREZ
+MF
+16 0
+Maxi Pereira
+DF
+17 0
+Alfaro Rios
+MF
+18 0
+Gaston Ramirez
+MF
+19 0
+Jose Maria Jimenez
+DF
+20 0
+Alvaro Gonzalez
+MF
+21 0
+Edinson Cavani
+FW
+22 0
+Martin Caceres
+DF
+23 0
+Martin SILVA
+GK
+
+十、France
+1 1
+Nasri
+GK
+2 0
+Debussy
+DF
+3 0
+Patrice Evra
+DF
+4 0
+Varane
+DF
+5 0
+Nicolas
+DF
+6 0
+Montserrat Caballe
+MF
+7 0
+franck ribery
+MF
+8 0
+Mathieu Valbuena
+MF
+9 0
+Giroux
+FW
+10 0
+Benzema
+FW
+11 0
+Griezmann
+MF
+12 0
+Rio Mavuba
+MF
+13 0
+Eliaquim Mangala
+DF
+14 0
+matuidi
+MF
+15 0
+Sanya
+DF
+16 0
+Rufir
+GK
+17 0
+D
+DF
+18 0
+Aly Cissokho
+MF
+19 0
+Pogba
+MF
+20 0
+Remy
+FW
+21 0
+Laurent Koscielny
+DF
+22 0
+Grenier
+MF
+23 0
+mickael landreau
+GK
+
+十一、Argentina 
+1 0
+Romero
+GK
+2 0
+garay
+DF
+3 0
+Hugo Armando Campagnaro
+DF
+4 0
+Pablo Zabaleta
+DF
+5 0
+Gago
+MF
+6 0
+Lucas Biglia
+MF
+7 0
+Angel Di Maria
+MF
+8 0
+Enzo - Peres
+MF
+9 0
+Gonzalo Higuain
+FW
+10 1
+Messi
+FW
+11 0
+M- Rodrigues
+MF
+12 0
+Orion
+GK
+13 0
+A- Fernandes
+MF
+14 0
+Mascherano
+MF
+15 0
+Martin Demichelis
+DF
+16 0
+Marcos Rojo
+DF
+17 0
+Fernandes
+DF
+18 0
+Rodrigo Palacio
+FW
+19 0
+Alvarez
+MF
+20 0
+Aguero
+FW
+21 0
+Ann Du Hal
+GK
+22 0
+Ezequiel Lavezzi
+FW
+23 0
+Basanta
+DF
+
+十二、Iran
+1 0
+Mahmoud Hagemann
+GK
+2 0
+Heydari
+DF
+3 0
+Haji Safi
+DF
+4 0
+Husseini
+DF
+5 0
+Sadiki
+DF
+6 0
+Javad Nekounam
+MF
+7 0
+Masoud SHOJAEI
+MF
+8 1
+Fortaleza - Hagigi
+MF
+9 0
+Bakhsh caghan
+FW
+10 0
+Karim Ansarifard
+FW
+11 0
+Hadadifar M
+MF
+12 0
+Haghighi
+GK
+13 0
+Marigny
+DF
+14 0
+Teymouri Ann
+MF
+15 0
+Hossein Ali Montazeri
+DF
+16 0
+Reza
+FW
+17 0
+A Rene May
+DF
+18 0
+Rahmany
+MF
+19 0
+Beck Za Dei
+DF
+20 0
+Berta Sauer
+DF
+21 0
+Ashkan Dejagah
+MF
+22 0
+Mohammad Davari
+GK
+23 0
+Boladi
+DF
+
+十三、Nigeria
+1 0
+Vincent Enyeama
+GK
+2 0
+Apex
+DF
+3 0
+Essi Jerzy Gellee
+DF
+4 0
+Gabriel
+MF
+5 0
+Ambrose
+DF
+6 0
+Wu Ke egger
+DF
+7 0
+Moussa
+FW
+8 0
+Osazemwinde Peter Odemwingie
+FW
+9 0
+E Mu Nick
+FW
+10 1
+Mikel
+MF
+11 0
+Moses
+FW
+12 0
+Theoden Lamy
+DF
+13 0
+Asha Niwa
+DF
+14 0
+AOBO sub Boehner
+DF
+15 0
+Carbo
+MF
+16 0
+Aiyide
+GK
+17 0
+Ogenyi Onazi
+MF
+18 0
+Babatunde
+MF
+19 0
+Enwofuer
+FW
+20 0
+Uche Bo
+FW
+21 0
+Aage Bhim
+GK
+22 0
+Mei Lu Austria Austria
+DF
+23 0
+shola ameobi
+FW
+
+十四、Germany
+1 1
+Manuel Neuer
+GK
+2 0
+Gross Croy F
+DF
+3 0
+Ginter
+DF
+4 0
+Benedikt Howedes
+DF
+5 0
+Mats Hummels
+DF
+6 0
+Sami Khedira
+MF
+7 0
+bastian schweinsteiger
+MF
+8 0
+Mesut Ozil
+MF
+9 0
+andre schuerrle
+MF
+10 0
+Lukas Podolski
+FW
+11 0
+Miroslav Klose
+FW
+12 0
+Zieler
+GK
+13 0
+Muller
+FW
+14 0
+Julian Draxler
+MF
+15 0
+Erik Durm
+DF
+16 0
+Rahm
+DF
+17 0
+Per Mertesacker
+DF
+18 0
+Crosby
+MF
+19 0
+Mario Goetze
+MF
+20 0
+J- Boateng
+DF
+21 0
+Lois
+MF
+22 0
+Weiden Feller
+GK
+23 0
+Kramer
+MF
+
+十五、Portugal
+1 0
+Eduardo
+GK
+2 0
+B- Alves
+DF
+3 0
+Pepe
+DF
+4 0
+MIguel Veloso
+MF
+5 0
+Fabio Coentrao
+DF
+6 0
+William - Carvalho
+MF
+7 1
+C Ronaldo
+FW
+8 0
+Joao Moutinho
+MF
+9 0
+Almeida
+FW
+10 0
+Vieirinha
+MF
+11 0
+Edgar
+FW
+12 0
+Patricio
+GK
+13 0
+R- Costa
+DF
+14 0
+Neto
+DF
+15 0
+Benitez
+MF
+16 0
+Melle Reis
+MF
+17 0
+What
+MF
+18 0
+Guillermo Varela
+FW
+19 0
+A- Almeida
+DF
+20 0
+amorim
+MF
+21 0
+Joao - Parreira
+DF
+22 0
+Bhutto
+GK
+23 0
+Postiga
+FW
+
+十六、Belgium 
+1 0
+Thibaut Courtois
+GK
+2 0
+Toby Alderweireld
+DF
+3 0
+Thomas Vermaelen
+DF
+4 1
+Kompany
+DF
+5 0
+Jan Vertonghen
+DF
+6 0
+Witt Sal
+MF
+7 0
+Kevin De Bruyne
+MF
+8 0
+Marouane Fellaini
+MF
+9 0
+Loukakou
+FW
+10 0
+O Zal
+MF
+11 0
+Mirallas
+FW
+12 0
+Simon Mignolet
+GK
+13 0
+Bo Syria
+GK
+14 0
+Motengsi
+MF
+15 0
+Daniel van Buyten
+DF
+16 0
+Defour
+MF
+17 0
+Aoliji
+FW
+18 0
+Long Barth
+DF
+19 0
+Moussa Dembele
+MF
+20 0
+Januzaj
+MF
+21 0
+Vanden Borre
+DF
+22 0
+Chudley
+MF
+23 0
+Seaman
+DF
+
+十七、Russia
+1 0
+Akinfeev
+GK
+2 0
+Kozlov
+DF
+3 0
+Shennikov
+DF
+4 0
+Ignashevich
+DF
+5 0
+Semenov
+DF
+6 0
+Kanunnikov
+FW
+7 0
+Denisov
+MF
+8 0
+Glushakov
+MF
+9 0
+Anton Kokorin
+FW
+10 0
+Alan Dzagoev
+MF
+11 0
+kerzhakov
+FW
+12 0
+Lodygin
+GK
+13 0
+Granat
+DF
+14 0
+V- Berezutski
+DF
+15 1
+Shirokov
+MF
+16 0
+ryzhkov
+GK
+17 0
+Shatov
+MF
+18 0
+Yuri Zhirkov
+MF
+19 0
+Samedov
+MF
+20 0
+Fay Zurin
+MF
+21 0
+ionov
+MF
+22 0
+Ash Yisi C
+DF
+23 0
+Kombarov
+MF
+
+十八、Korea Republi
+1 0
+Jung Sung-Ryong
+GK
+2 0
+Kim Chang-Soo
+DF
+3 0
+Yun Suk-Young
+DF
+4 0
+Kwak Tae-Hwi
+DF
+5 0
+Kim eng right
+DF
+6 0
+Huang Xigao
+DF
+7 0
+Kim Bo-Kyung
+MF
+8 0
+Ha Dae-Sung
+MF
+9 0
+Son Heung-Min
+FW
+10 0
+Chu Young Park
+FW
+11 0
+Lee Keun-Ho
+FW
+12 0
+Lee Jae Yong
+DF
+13 0
+Koo Ja-Cheol
+MF
+14 0
+Guo Rong Han
+MF
+15 0
+Park Jong-Woo
+MF
+16 1
+Ki Sung-Yong
+MF
+17 0
+Lee
+MF
+18 0
+Kim Shin-Wook
+FW
+19 0
+Ji Dong-Won
+FW
+20 0
+Hong Jeong-Ho
+DF
+21 0
+Jinchengkui
+GK
+22 0
+Park Joo ho
+DF
+23 0
+Lifanyong
+GK
+
+十九、Saudi Arabia
+1 0
+Walid - Abdullah
+GK
+2 1
+Saeed - Al muwallad
+DF
+3 0
+Mu A Tazi hawsawi
+DF
+4 0
+Abdullah - Al dossari
+DF
+5 0
+Omar hawsawi
+DF
+6 0
+Mustafa Basazi
+FW
+7 0
+Sahlman - Fala
+MF
+8 0
+The Lord and Aaron Shakhri
+MF
+9 0
+Hazhazi
+FW
+10 0
+Sahra Vee
+FW
+11 0
+Walid - Bach a.
+MF
+12 0
+Hassan - Mai Aziz
+DF
+13 0
+Yasaier - Shahalani
+DF
+14 0
+Cary
+MF
+15 0
+Nasir - Shamulani
+FW
+16 0
+Liz Mota hawsawi
+DF
+17 0
+Diessl - Yaximu
+MF
+18 0
+Salim - Dusri
+MF
+19 0
+Mu Walid
+FW
+20 0
+Nawafu - abed
+MF
+21 0
+Sadili
+GK
+22 0
+Ennaqi
+GK
+23 0
+Majid and Sadie
+DF
+
+二十、

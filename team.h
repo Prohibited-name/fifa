@@ -1,12 +1,19 @@
+#ifndef TEAM_H
+#define TEAM_H
+
 #include<string> 
 #include<iostream>
+#include<sstream> 
 #include<vector>
 using namespace std;
 
- struct Pts{
+struct Pts{
 	int W,D,L,GF,GA,GD;
-	show(){
-		cout << W << "  " << D << "  " << L << "  " << GF << "  " << GA << "  " << GD << endl;
+	string show(){
+		string result;
+		ostringstream out(result);
+		out << W << "  " << D << "  " << L << "  " << GF << "  " << GA << "  " << GD << endl;
+		return result;
 	}
 };
 
@@ -73,3 +80,5 @@ public:
 	}
 	//
 };
+
+#endif

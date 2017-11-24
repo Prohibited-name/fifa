@@ -1,18 +1,21 @@
-#include "team.h"
 #include "game_sim.h"
 struct game
 {
-	vector<team>::iterator team1,team2;
+	string num;
+	vector<Team>::iterator team1,team2;
 	int month,day;
 	int time;
-	string time;
 	string place;	
 };
 
 class fifa{
 	private:
-		vector<team> team32;
+		vector<Team> team32;
+		void show_info(string s);
+		void update_info(vector<Team> teams);
+		void save_result(vector<Team> teams,string s);
+		void show_final();
 	public:
-		fifa(vector<team> teams);
+		fifa(vector<Team> teams);
 		void run_sim();
-}
+};

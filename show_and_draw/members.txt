@@ -1,4 +1,4 @@
-一、Brazil
+Brazil
 1 0
 Jefferson
 GK
@@ -69,7 +69,7 @@ GK
 maicon
 DF
 	
-二、Croatia
+Croatia
 1 0
 Stipe Pletikosa
 GK
@@ -140,7 +140,7 @@ FW
 Danijel Subasic
 GK
 
-三、Mexico
+Mexico
 1 0
 Jose Corona
 GK
@@ -211,7 +211,7 @@ DF
 Juan Vasquez
 MF
 
-四、Australia
+Australia
 1 0
 Matthew Ryan
 GK
@@ -282,7 +282,7 @@ DF
 Mark Bresciano
 MF
 
-五、Spain
+Spain
 1 0
 Iker Casillas
 GK
@@ -353,7 +353,7 @@ DF
 Jose Reina
 GK
 
-六、Japan
+Japan
 1 0
 Eiji Kawashima
 GK
@@ -424,7 +424,7 @@ DF
 Shuichi Gonda
 GK
 
-七、Colombia
+Colombia
 1 0
 David OSPINA
 GK
@@ -495,8 +495,7 @@ GK
 Carlos Adrian Suarez Valdez
 DF
 
-
-八、Costa Rica 
+Costa Rica
 1 0
 Calo Navas
 GK
@@ -567,7 +566,7 @@ MF
 Daniel Cambronero
 GK
 
-九、England
+England
 1 0
 Joe Hart
 GK
@@ -638,78 +637,7 @@ GK
 Luke Seaan
 DF
 
-九、Uruguay
-1 0
-Fernando Muslera
-GK
-2 0
-Diego Lugano
-DF
-3 0
-Diego Godin
-DF
-4 0
-Sebastian Coates
-DF
-5 0
-Walter GARGANO
-MF
-6 0
-Alvaro PEREIRA
-MF
-7 0
-Christian Rodriguez
-MF
-8 0
-Abel Hernandez
-FW
-9 1
-Luis Suarez
-FW
-10 0
-Diego Forlan
-FW
-11 0
-Christian Ricardo Stuani
-FW
-12 0
-Rodrigo Munoz
-GK
-13 0
-Jorge Fucile
-DF
-14 0
-Nicholas Lodeiro
-MF
-15 0
-Diego PEREZ
-MF
-16 0
-Maxi Pereira
-DF
-17 0
-Alfaro Rios
-MF
-18 0
-Gaston Ramirez
-MF
-19 0
-Jose Maria Jimenez
-DF
-20 0
-Alvaro Gonzalez
-MF
-21 0
-Edinson Cavani
-FW
-22 0
-Martin Caceres
-DF
-23 0
-Martin SILVA
-GK
-
-十、France
+France
 1 1
 Nasri
 GK
@@ -780,7 +708,7 @@ MF
 mickael landreau
 GK
 
-十一、Argentina 
+Argentina
 1 0
 Romero
 GK
@@ -803,7 +731,7 @@ MF
 Angel Di Maria
 MF
 8 0
-Enzo - Peres
+Enzo Peres
 MF
 9 0
 Gonzalo Higuain
@@ -812,13 +740,13 @@ FW
 Messi
 FW
 11 0
-M- Rodrigues
+M Rodrigues
 MF
 12 0
 Orion
 GK
 13 0
-A- Fernandes
+A Fernandes
 MF
 14 0
 Mascherano
@@ -851,7 +779,7 @@ FW
 Basanta
 DF
 
-十二、Iran
+Iran
 1 0
 Mahmoud Hagemann
 GK
@@ -922,7 +850,7 @@ GK
 Boladi
 DF
 
-十三、Nigeria
+Nigeria
 1 0
 Vincent Enyeama
 GK
@@ -993,7 +921,7 @@ DF
 shola ameobi
 FW
 
-十四、Germany
+Germany
 1 1
 Manuel Neuer
 GK
@@ -1064,7 +992,7 @@ GK
 Kramer
 MF
 
-十五、Portugal
+Portugal
 1 0
 Eduardo
 GK
@@ -1135,7 +1063,7 @@ GK
 Postiga
 FW
 
-十六、Belgium 
+Belgium
 1 0
 Thibaut Courtois
 GK
@@ -1206,7 +1134,7 @@ MF
 Seaman
 DF
 
-十七、Russia
+Russia
 1 0
 Akinfeev
 GK
@@ -1277,7 +1205,7 @@ DF
 Kombarov
 MF
 
-十八、Korea Republi
+Korea Republic
 1 0
 Jung Sung-Ryong
 GK
@@ -1348,7 +1276,7 @@ DF
 Lifanyong
 GK
 
-十九、Saudi Arabia
+Saudi Arabia
 1 0
 Walid - Abdullah
 GK
@@ -1419,4 +1347,926 @@ GK
 Majid and Sadie
 DF
 
-二十、
+Egypt
+1 0
+Essam El Ali
+GK
+2 0
+Ali Gabr
+DF
+3 0
+Hossam Ghaly
+MF
+4 0
+Omar Gabor
+DF
+5 0
+Ibrahim Salah
+MF
+6 0
+Sea Ghazi
+DF
+7 0
+Ahmed Fathi
+DF
+8 0
+Tarek Hamed
+MF
+9 0
+Ahmed Hassan
+FW
+10 0
+Salah
+FW
+11 0
+Mahmoud Abdelmonem Soliman
+MF
+12 0
+Ahmed Mohamed Abdallah
+DF
+13 0
+Mohamed Abdul - Shafi
+DF
+14 0
+R. Su Boxi
+MF
+15 0
+Hafiz
+DF
+16 1
+Sherif Ahmed Ekramy
+GK
+17 0
+Mohamed El - neni
+MF
+18 0
+Marwan Mohsen
+FW
+19 0
+Abdulla Saeed
+FW
+20 0
+Saad Eldin Samir Saad Ali
+DF
+21 0
+Amr Zaki
+FW
+22 0
+Emad Moteab
+FW
+23 0
+Ahmed El - Xie Nawi
+GK
+
+Tunisia
+1 0
+Farooq Ben Mustafa
+GK
+2 0
+Ben Yusuf
+DF
+3 0
+Anis Badri
+FW
+4 0
+Yassine Meriah
+MF
+5 0
+Osama Hadadi
+DF
+6 0
+Chamseddine Dhaouadi
+DF
+7 0
+Yusuf Msaky
+MF
+8 0
+Fakhreddine Ben Youssef
+FW
+9 0
+Yueang, Tuz Garr
+FW
+10 0
+Wahbi Kazy
+MF
+11 0
+Hamza Jelassi
+MF
+12 0
+Ali Maaloul
+DF
+13 0
+Rami Bedoy
+DF
+14 0
+Mohamed Amin Ben Amor
+MF
+15 0
+Aowadi
+MF
+16 1
+Aimmen Masrus
+GK
+17 0
+Hamza Masruti
+FW
+18 0
+Ahmed Khalil
+MF
+19 0
+Halil Chemam
+DF
+20 0
+Mohamed Ali Yaacoubi
+DF
+21 0
+Hamdi Nagguez
+DF
+22 0
+Moez Ben Cherifia
+GK
+23 0
+Naim Sliti
+FW
+
+Senegal
+1 0
+Abdoulaye Diallo
+GK
+2 0
+Cara
+DF
+3 0
+Kalidou Coulibaly
+DF
+4 0
+Mbengue
+DF
+5 0
+Gaye
+MF
+6 0
+Diafra Sakho
+FW
+7 0
+Sow
+FW
+8 0
+Chekhu Kouyate
+MF
+9 0
+M Diouf
+FW
+10 0
+Sadio Mane
+FW
+11 0
+Sheikh Enduoye
+MF
+12 1
+Engert
+FW
+13 0
+Moussa Knut
+FW
+14 0
+Zargo Toure
+DF
+15 0
+Diaopu
+MF
+16 0
+Khadim Ndiaye
+GK
+17 0
+Diddio
+FW
+18 0
+Sal I.
+FW
+19 0
+Saliou Sith
+DF
+20 0
+Balde Keita
+FW
+21 0
+Lamine Gassama
+DF
+22 0
+CVET
+MF
+23 0
+Pape Seydou Ndiaye
+GK
+
+Morocco
+1 0
+Bounou Yasin
+GK
+2 0
+Hakim Ziyech
+MF
+3 0
+Mimoun Mahi
+MF
+4 0
+Ismail El Haddad
+FW
+5 0
+Jawad El Yamiq
+DF
+6 0
+Roman Seth
+MF
+7 0
+Don Ness Lee
+FW
+8 0
+Ahmad
+MF
+9 0
+Finn cable
+MF
+10 0
+Belhanda
+MF
+11 0
+Fekal Fagel
+MF
+12 0
+Mohan de Munir
+GK
+13 0
+Walid Azaro
+FW
+14 0
+Mpak Boussoufa
+MF
+15 0
+Ukraine test tower
+DF
+16 0
+Ann Rabat
+MF
+17 0
+Nabil Dirar
+MF
+18 0
+Banmuao
+FW
+19 0
+Abu Bakar Yusof
+MF
+20 0
+Aziz Bouhaddouz
+FW
+21 0
+Casella - Gonzales
+MF
+22 1
+Yassine El Kharroubi
+GK
+23 0
+Sofyan Amrabat
+MF
+
+Iceland
+1 0
+Hannes Thor Halldorson
+GK
+2 0
+Bill Kiel - Ma Sevalson
+DF
+3 0
+Haukur Heidar Hauksson
+DF
+4 0
+Hjortur Hermannsson
+DF
+5 0
+Lille - Yingui - by Gaston swirskiaphis
+DF
+6 0
+Ragnar Sigurdsson
+DF
+7 0
+John Goodmondson
+MF
+8 0
+Bea Nathan
+MF
+9 0
+Corben Sigtolson
+FW
+10 1
+Gylfi Sigurdsson
+MF
+11 0
+Alfred Finnbogason
+FW
+12 0
+Augmondul Christensen
+GK
+13 0
+Ingvar Jonsson
+GK
+14 0
+Cary Arnathan
+DF
+15 0
+Jon - Dadi Bodvallson
+FW
+16 0
+Lunaer - -S. - Ma Xi Gu Rong Shen
+MF
+17 0
+Gunn Nelson
+MF
+18 0
+Teddy Biyanathan
+MF
+19 0
+Hodul - Bjorgwen Magnuson
+DF
+20 0
+Hall Fredson
+MF
+21 0
+Arnaud - Yngwie Traustase
+MF
+22 0
+Eidur Smari Gudjohnsen
+FW
+23 0
+Ali Skurasen
+DF
+
+Poland
+1 0
+Wojciech Szczesny
+GK
+2 0
+Michal Pazdan
+MF
+3 0
+Artur Jedzeizik
+DF
+4 0
+Theo Jelinek
+DF
+5 0
+Marcin J Ki
+MF
+6 0
+Jacek Goralski
+MF
+7 0
+Steppin J Ki
+FW
+8 0
+K. Lineidi
+MF
+9 1
+Robert Lewandowski
+FW
+10 0
+Kerry Jo Via J
+MF
+11 0
+Kamil Grosicki
+FW
+12 0
+Lucas Skrupski
+GK
+13 0
+Maciej rybus.
+MF
+14 0
+Belezinski
+DF
+15 0
+Camille gleeck.
+DF
+16 0
+Blas Zick J J Ki
+MF
+17 0
+Maciej Makuzevskiy
+MF
+18 0
+Pavel Uszolek
+MF
+19 0
+Rafal Zielinski
+MF
+20 0
+Rafael Volsh
+MF
+21 0
+Tomasz Kedziora
+DF
+22 0
+Lukasz FABIANSKI
+GK
+23 0
+Kamil Wiiczek
+FW
+
+Serbia
+1 0
+Vladimir Stojkovic
+GK
+2 0
+Rukavina
+DF
+3 0
+tosic
+DF
+4 0
+Namaniya Gudelj
+MF
+5 0
+Matija Nastasic
+DF
+6 1
+Ivanovic
+DF
+7 0
+Kerr Christian Txiki
+MF
+8 0
+Aleksandar Prijovic
+FW
+9 0
+Alexander Mitrovic
+FW
+10 0
+Dusan Tadic
+MF
+11 0
+Nicola Maksimovich
+DF
+12 0
+Predrag Rajkovic
+GK
+14 0
+Garcia Aganovich
+MF
+15 0
+Jagose Vukovic
+DF
+16 0
+Luca Milivojevic
+MF
+16 0
+Sanel Kuljic
+MF
+17 0
+Philip Kostic
+FW
+18 0
+Ivan Obradovic
+DF
+19 0
+Andrija Zivkovic
+FW
+20 0
+Sergey
+MF
+21 0
+Nemanja Radonjic
+FW
+22 0
+Leah zichi
+FW
+23 0
+Marco Dmytrovic
+GK
+
+Switzerland
+1 0
+Ragnvald Soma
+GK
+2 1
+Stephan Lichtsteiner
+DF
+3 0
+L. Lacroix
+DF
+4 0
+Nick El Vitti.
+DF
+5 0
+Manuel Akanji
+DF
+6 0
+Sedgewick
+DF
+7 0
+Fort Des
+FW
+8 0
+Remo
+MF
+9 0
+Seferovic
+FW
+10 0
+Zach
+MF
+11 0
+behrami
+MF
+12 0
+Hitz M.
+GK
+13 0
+R Rodrigues
+DF
+14 0
+Steven Zuber
+MF
+15 0
+Beller di Zemali Selim.
+MF
+16 0
+Fernandes Gerson.
+MF
+17 0
+Zaccaria
+MF
+18 0
+Admir Mehmedi
+FW
+19 0
+Gavranovic
+FW
+20 0
+Fernandes
+MF
+21 0
+Bulki
+GK
+22 0
+Fabian Shull.
+DF
+23 0
+Xherdan Shaqiri
+MF
+
+Sweden
+1 0
+Robin Olsen
+GK
+2 0
+Michael Lusting
+DF
+3 0
+Victor Lindelof
+DF
+4 1
+Granqvist
+DF
+5 0
+Martin Olsson
+DF
+6 0
+Ludwig Augustinson
+DF
+7 0
+Larson
+MF
+8 0
+Isaacs Keith Sterling
+FW
+9 0
+Marcus Berg.
+FW
+10 0
+Emil Forsberg
+MF
+11 0
+Guidedi
+FW
+12 0
+Carle - John Johannsen
+GK
+13 0
+Jakob Johansson
+MF
+14 0
+Philip Hrand
+DF
+15 0
+Gustaf SVENSSON
+MF
+16 0
+Emil Kraft
+DF
+17 0
+Victor Claeson
+MF
+18 0
+Pontus Jansen
+DF
+19 0
+Markus Roheden
+MF
+20 0
+Ola Toivonen
+FW
+21 0
+Jimmy Dulmaz
+MF
+22 0
+Ken Nlata Sema
+MF
+23 0
+Kristoffer Nordfeldt
+GK
+
+Denmark
+1 0
+Caspar Schmeichel
+GK
+2 0
+Mike Jensen
+MF
+3 0
+Westergaard
+DF
+4 1
+Simon Kjaer
+DF
+5 0
+Peter Ankolson
+DF
+6 0
+Andreas Christensen
+DF
+7 0
+Qwest
+MF
+8 0
+Thomas Delaney
+MF
+9 0
+Nikolai Jorgensen
+FW
+10 0
+Erickson
+MF
+11 0
+Nicklas Bendtner
+FW
+12 0
+Andreas Pejrand
+DF
+13 0
+Zanga
+DF
+14 0
+Henrik Dalsgaard
+DF
+15 0
+Fisher
+FW
+16 0
+Jonas Russell
+GK
+17 0
+Jens Larsen
+DF
+18 0
+Lucas Lalag
+MF
+19 0
+Lasse Scone
+MF
+20 0
+Yusuf - Yoam Poulsen
+FW
+21 0
+Andreas Cornelius
+FW
+22 0
+Frederick Rauno
+GK
+23 0
+I Situ
+FW
+
+Panama
+1 0
+Jaime Manuel Penedo Cano
+GK
+2 0
+Miguel Elias Camargo Canizalez
+MF
+3 0
+Harold Cummings
+DF
+4 0
+Fidel Escobar Mendieta
+DF
+5 0
+Roderick Miller
+DF
+6 0
+Gabriel Gomez
+MF
+7 0
+Blas Perez
+FW
+8 0
+Gabriel Torres
+FW
+9 0
+Roberto Antonio Nurse Anguiano
+FW
+10 0
+Luis Tejada
+FW
+11 0
+Armando Cooper
+MF
+12 0
+Alex Raul Rodriguez Ledezma
+GK
+13 0
+Adolf Machado
+DF
+14 0
+Valentin Enrique Pimentel Armuelles
+MF
+15 0
+Martin Antonio Gomez Rodriguez
+DF
+16 0
+Abdil Arroyo
+FW
+17 0
+Luis Enriquez
+DF
+18 0
+Ricardo Enrique Buitrago Medina
+MF
+19 0
+Alberto Quintero
+MF
+20 0
+Anibal Cesis Godoy
+MF
+21 0
+Amilcar Enriquez
+MF
+22 0
+Jose De Jesus Calderon Frias
+GK
+23 1
+Felipe Baloy
+DF
+
+Peru
+1 0
+Pedro Gallese
+GK
+2 0
+Alberto Rodriguez
+DF
+3 0
+Aldo Korzo
+DF
+4 0
+Anderson Santamaria Bardales
+DF
+5 0
+Miguel Gianpierre Araujo Blanco
+DF
+6 0
+Miguel Angel Trauco Saavedra
+DF
+7 0
+Christopher Hurtado
+FW
+8 0
+Christian Cueva
+MF
+9 1
+Sanchez
+FW
+10 0
+Jefferson Farfan
+MF
+11 0
+Raul Ruidiaz
+FW
+12 0
+Carlos Caseda
+GK
+13 0
+Renato Fabrizio Tapia Cortijo
+MF
+14 0
+Andy Polo
+FW
+15 0
+Luis Alfonso Abram Ugarelli
+DF
+16 0
+Sergio Pena Flores
+MF
+17 0
+The Lewis A De library pull
+DF
+18 0
+Andre - Martin Carillo
+FW
+19 0
+Victor Otun
+MF
+20 0
+Edison Flores
+FW
+21 0
+Jose Carvalho
+GK
+22 0
+Nilson Evair Loyola Morales
+DF
+23 0
+Pedro Jesus Aquino Sanches
+MF
+
+Uruguay
+1 0
+Fernando Muslera
+GK
+2 0
+Diego Lugano
+DF
+3 0
+Diego Godin
+DF
+4 0
+Sebastian Coates
+DF
+5 0
+Walter GARGANO
+MF
+6 0
+Alvaro PEREIRA
+MF
+7 0
+Christian Rodriguez
+MF
+8 0
+Abel Hernandez
+FW
+9 1
+Luis Suarez
+FW
+10 0
+Diego Forlan
+FW
+11 0
+Christian Ricardo Stuani
+FW
+12 0
+Rodrigo Munoz
+GK
+13 0
+Jorge Fucile
+DF
+14 0
+Nicholas Lodeiro
+MF
+15 0
+Diego PEREZ
+MF
+16 0
+Maxi Pereira
+DF
+17 0
+Alfaro Rios
+MF
+18 0
+Gaston Ramirez
+MF
+19 0
+Jose Maria Jimenez
+DF
+20 0
+Alvaro Gonzalez
+MF
+21 0
+Edinson Cavani
+FW
+22 0
+Martin Caceres
+DF
+23 0
+Martin SILVA
+GK
+end
